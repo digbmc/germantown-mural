@@ -54,5 +54,5 @@ The mural was finished in August 2001. Clarice Gamble Herbert, the only living w
 
 {% include feature/image.html objectid="objects/arc_102.jpg" width="50" height="60" caption="Clarcie Gamble Herbert at the Women of Germantown Mural unveiling.Photo courtesy of Ann B. Perrone" %}
 
-If you have any further information on this mural project or the women featured on it we invite you to share it with us by emailing _______________. 
+If you have any further information on this mural project or the women featured on it we invite you to share it with us by emailing mlee9@brynmawr.edu . 
 
